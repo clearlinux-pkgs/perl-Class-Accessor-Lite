@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-Accessor-Lite
 Version  : 0.08
-Release  : 15
+Release  : 16
 URL      : https://cpan.metacpan.org/authors/id/K/KA/KAZUHO/Class-Accessor-Lite-0.08.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KA/KAZUHO/Class-Accessor-Lite-0.08.tar.gz
 Summary  : 'a minimalistic variant of Class::Accessor'
@@ -84,4 +84,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/Class/Accessor/Lite.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Class/Accessor/Lite.pm
