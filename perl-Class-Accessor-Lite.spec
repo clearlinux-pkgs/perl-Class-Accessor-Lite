@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-Accessor-Lite
 Version  : 0.08
-Release  : 29
+Release  : 30
 URL      : https://cpan.metacpan.org/authors/id/K/KA/KAZUHO/Class-Accessor-Lite-0.08.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KA/KAZUHO/Class-Accessor-Lite-0.08.tar.gz
 Summary  : 'a minimalistic variant of Class::Accessor'
